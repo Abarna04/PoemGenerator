@@ -1,12 +1,5 @@
 # AutoCompose
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/prajwalcr/AutoCompose)
-[![MIT license](https://img.shields.io/badge/License-MIT-important.svg)](https://lbesson.mit-license.org/)
-[![Website shields.io](https://img.shields.io/badge/Webiste-Up-success.svg)](http://autocompose.herokuapp.com/)
-
-![home screen](./readme-assets/home-screen.png)
-
-<h2 align="center"><a  href="http://autocompose.herokuapp.com/">Live Demo</a></h2>
 
 # Table of Contents
 
